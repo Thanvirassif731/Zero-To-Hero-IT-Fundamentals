@@ -95,3 +95,7 @@ Computers don’t understand English! They only understand binary - 0s and 1s.
         b) For traveling
         c) To help in communication, data processing, and innovation - (C)
         d) For making food
+
+---
+
+[To the Main Page](/README.md) | [Up Next: Day-02 - Computer Components](/Day-02.md)
