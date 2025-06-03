@@ -66,19 +66,6 @@ By the end of this course, you’ll understand the **core concepts of IT**, incl
 
 ---
 
-## 🧭 Getting Started
-
-You can start from [**Section 01 - Introduction to IT**](/Day-01.md) right away!
-
-Each section will include:
-- Concept Explanation  
-- Key Takeaways  
-- Quiz & Assignments  
-- Downloadable Handouts  
-- Hands-On Activities (if applicable)
-
----
-
 ## 🤝 Let's Connect!
 
 If you enjoy this course, consider:
