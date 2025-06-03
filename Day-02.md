@@ -134,21 +134,21 @@ Protects computers, networks, and data from damage or unauthorized access.
 1. What is the physical part of a computer called?
 
         a) Software
-        b) Hardware
+        b) Hardware - (C)
         c) Application
         d) Network
 
 2. What does the Operating System do?
 
         a) Runs games
-        b) Controls hardware and software
+        b) Controls hardware and software - (C)
         c) Repairs broken parts
         d) Connects to the internet
 
 3. Which of these is NOT application software?
 
         a) Excel
-        b) Windows
+        b) Windows - (C)
         c) Zoom
         d) Chrome
 
@@ -156,20 +156,20 @@ Protects computers, networks, and data from damage or unauthorized access.
 
         a) Writing emails
         b) Fixing the keyboard
-        c) Connecting computers
+        c) Connecting computers - (C)
         d) Playing games online
 
 5. Where is data organized and stored for easy access?
 
         a) Keyboard
         b) RAM
-        c) Database
+        c) Database - (C)
         d) Monitor
 
 6. What is cloud computing?
 
         a) A type of weather
-        b) Remote data storage and computing over the internet
+        b) Remote data storage and computing over the internet - (C)
         c) Old type of database
         d) Desktop software
 
@@ -177,7 +177,7 @@ Protects computers, networks, and data from damage or unauthorized access.
 
         a) For design
         b) To boost Wi-Fi
-        c) To protect computers and data from threats
+        c) To protect computers and data from threats - (C)
         d) To install games
 
 ---
