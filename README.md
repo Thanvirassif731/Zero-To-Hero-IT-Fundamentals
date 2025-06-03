@@ -29,7 +29,7 @@ By the end of this course, you’ll understand the **core concepts of IT**, incl
 |--------|-------|
 | 01 | [Introduction to IT](/Day-01.md) |
 | 02 | [Computer Components](/Day-02.md) |
-| 03 | Hardware |
+| 03 | [Hardware](/Day-03.md) |
 | 04 | Operating Systems |
 | 05 | Software |
 | 06 | Networking |
