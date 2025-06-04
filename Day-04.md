@@ -108,48 +108,55 @@ Tip: You’ll learn file systems deeply when you manage Windows/Linux OS in futu
 ## 📝 Quiz (7 Questions)
 
 1. Which of these is NOT an operating system?
-   a) Windows
-   b) Android
-   c) Firefox
-   d) Linux
+
+        a) Windows
+        b) Android
+        c) Firefox
+        d) Linux
 
 2. What is the primary function of an OS?
-   a) Create documents
-   b) Browse internet
-   c) Manage hardware and software
-   d) Print files
+
+        a) Create documents
+        b) Browse internet
+        c) Manage hardware and software
+        d) Print files
 
 3. Which OS is commonly used on smartphones?
-   a) Ubuntu
-   b) Android
-   c) macOS
-   d) Windows Server
+
+        a) Ubuntu
+        b) Android
+        c) macOS
+        d) Windows Server
 
 4. What does GUI stand for?
-   a) General User Interface
-   b) Graphical User Interface
-   c) Global Utility Interface
-   d) Game User Interface
+
+        a) General User Interface
+        b) Graphical User Interface
+        c) Global Utility Interface
+        d) Game User Interface
 
 5. What part of the boot process checks hardware at start?
-   a) OS
-   b) RAM
-   c) BIOS
-   d) Monitor
+
+        a) OS
+        b) RAM
+        c) BIOS
+        d) Monitor
 
 6. What file system is commonly used in Linux?
-   a) FAT32
-   b) NTFS
-   c) EXT4
-   d) PDF
+
+        a) FAT32
+        b) NTFS
+        c) EXT4
+        d) PDF
 
 7. What is a kernel in an OS?
-   a) External drive
-   b) Part that talks to hardware
-   c) A type of virus
-   d) A system update
 
----
+        a) External drive
+        b) Part that talks to hardware
+        c) A type of virus
+        d) A system update
+
+<br>
 
 ## 📝 Homework Ideas
 
@@ -161,13 +168,6 @@ Tip: You’ll learn file systems deeply when you manage Windows/Linux OS in futu
    * Try commands like `cd`, `ls`, `dir`, `mkdir`
 
 ---
-
-Would you like a **PDF/Handout version** of this section before we move to **Day-05: Software**?
-
-
-
----
-
 Home: [Main Page](/README.md) | Previous: [Day-03 - Hardware](/Day-03.md) | Up Next: [Day-05 - Software](/Day-05.md)
 
 <br>
