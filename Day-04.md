@@ -29,6 +29,8 @@
 
 **Analogy**: Different cars need different engines. Same with devices—they need OS based on their job.
 
+![Operating system Image](/Images/OS-images.jpg)
+
 <br>
 
 ## 2. Functions of an Operating System
