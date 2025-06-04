@@ -1,5 +1,19 @@
 # Day 01 - Introduction to IT
 
+## Topics Covered:
+
+1. True Meaning of IT
+
+2. Why IT is Important?
+
+3. What is a Computer?
+
+4. Computer Language (0 and 1 Concept)
+
+5. Quiz, Handouts & Homework
+
+<br>
+
 ## 1. True Meaning of IT
 Information Technology (IT) is all about using computers and networks to create, store, process, and exchange information.
 
@@ -12,7 +26,6 @@ Information Technology (IT) is all about using computers and networks to create,
 * Internet/network is how they talk to each other.
 
 <br>
-
 
 ## 2. Why IT is Important?
 * Powers almost every business (from hospitals to banks)
@@ -98,4 +111,20 @@ Computers don’t understand English! They only understand binary - 0s and 1s.
 
 ---
 
-[To the Main Page](/README.md) | [Up Next: Day-02 - Computer Components](/Day-02.md)
+Home: [Main Page](/README.md) | Up Next: [Day-02 - Computer Components](/Day-02.md)
+
+<br>
+
+### 🤝 Let's Connect!
+---
+
+If you enjoy this course, consider:
+- Follow me on **[LinkedIn](https://www.linkedin.com/in/thanvir-assif-1b3435203/)**
+- Subscribe to my YouTube channels:
+        
+    * [Thanvir Assif](https://www.youtube.com/@thanvirassif731) 
+    * [Learn With Ash - Tamil](https://www.youtube.com/@learnwithashtamil7)
+
+- Book 1:1 guidance via **[Topmate](https://topmate.io/thanvir_assif/)**
+
+---

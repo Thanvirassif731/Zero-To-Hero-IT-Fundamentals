@@ -1,4 +1,4 @@
-# 🧱 Day 02 – Computer Components
+# Day 02 – Computer Components
 We'll cover 8 key areas:
 
 1. Hardware
@@ -182,4 +182,20 @@ Protects computers, networks, and data from damage or unauthorized access.
 
 ---
 
-[To the Main Page](/README.md) | [Previous: Day-01 - Introduction to IT](/Day-01.md) | [Up Next: Day-03 - Hardware](/Day-03.md)
+Home: [Main Page](/README.md) | Previous: [Day-01 - Introduction to IT](/Day-01.md) | Up Next: [Day-03 - Hardware](/Day-03.md)
+
+<br>
+
+### 🤝 Let's Connect!
+---
+
+If you enjoy this course, consider:
+- Follow me on **[LinkedIn](https://www.linkedin.com/in/thanvir-assif-1b3435203/)**
+- Subscribe to my YouTube channels:
+        
+    * [Thanvir Assif](https://www.youtube.com/@thanvirassif731) 
+    * [Learn With Ash - Tamil](https://www.youtube.com/@learnwithashtamil7)
+
+- Book 1:1 guidance via **[Topmate](https://topmate.io/thanvir_assif/)**
+
+---
