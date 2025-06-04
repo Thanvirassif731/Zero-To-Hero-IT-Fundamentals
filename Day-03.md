@@ -1,4 +1,4 @@
-## **Day 03 – Hardware**
+# **Day 03 – Hardware**
 
 ### Topics Covered:
 

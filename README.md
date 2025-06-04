@@ -30,18 +30,18 @@ By the end of this course, you’ll understand the **core concepts of IT**, incl
 | 01 | [Introduction to IT](/Day-01.md) |
 | 02 | [Computer Components](/Day-02.md) |
 | 03 | [Hardware](/Day-03.md) |
-| 04 | [Operating Systems]() |
-| 05 | [Software]() |
-| 06 | [Networking]() |
-| 07 | [Database]() |
-| 08 | [Storage]() |
-| 09 | [Virtualization and Cloud]() |
-| 10 | [Security]() |
-| 11 | [Windows OS Management]() |
-| 12 | [Linux OS Management]() |
-| 13 | [Troubleshooting Concepts]() |
-| 14 | [Introduction to AI and ChatGPT]() |
-| 15 | [Introduction to DevOps]() |
+| 04 | [Operating Systems](/Day-04.md) |
+| 05 | [Software](/Day-05.md) |
+| 06 | [Networking](/Day-06.md) |
+| 07 | [Database](/Day-07.md) |
+| 08 | [Storage](/Day-08.md) |
+| 09 | [Virtualization and Cloud](/Day-09.md) |
+| 10 | [Security](/Day-10.md) |
+| 11 | [Windows OS Management](/Day-11.md) |
+| 12 | [Linux OS Management](/Day-12.md) |
+| 13 | [Troubleshooting Concepts](/Day-13.md) |
+| 14 | [Introduction to AI and ChatGPT](/Day-14.md) |
+| 15 | [Introduction to DevOps](/Day-15.md) |
 
 ---
 
