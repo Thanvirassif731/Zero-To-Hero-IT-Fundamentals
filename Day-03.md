@@ -70,7 +70,9 @@ Installing a CPU involves:
 3. Applying thermal paste.
 4. Locking it with a fan (heat sink).
 
-*We’ll walk through a simulated version later.*
+*We’ll walk through a simulated version later in YouTube videos.*
+
+![Image of microprocessor installation](/Images/How%20to%20plug%20a%20microprocessor.png)
 
 <br>
 
@@ -89,6 +91,8 @@ Installing a CPU involves:
 * SSD (Solid-State Drive): Faster and more durable.
 
 **Analogy**: HDD is like a **bookshelf** storing everything.
+
+![HDD vs SSD Image](/Images/hdd_vs_ssd_bz.png)
 
 <br>
 
