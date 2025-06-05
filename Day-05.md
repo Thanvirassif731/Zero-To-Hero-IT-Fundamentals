@@ -1,6 +1,6 @@
 # **Day 05 – Software**
 
-### 📌 Topics Covered:
+### Topics Covered:
 
 1. What is Software?
 

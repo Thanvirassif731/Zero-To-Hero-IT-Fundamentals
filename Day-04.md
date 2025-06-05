@@ -1,6 +1,6 @@
 # **Day 04 – Operating System**
 
-## Topics Covered:
+### Topics Covered:
 
 1. Types of Operating Systems
 

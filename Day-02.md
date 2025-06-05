@@ -1,5 +1,6 @@
 # Day 02 – Computer Components
-We'll cover 8 key areas:
+
+### Topics Covered:
 
 1. Hardware
 
