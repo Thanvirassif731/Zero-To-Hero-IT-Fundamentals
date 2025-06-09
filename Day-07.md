@@ -90,34 +90,39 @@ You don’t need to memorize SQL now - just understand it’s the language used 
 ## 📝 Quiz (5 Questions)
 
 1. What is the full form of SQL?
-   a) Structured Quick Language
-   b) Sequential Query Language
-   c) Structured Query Language
-   d) Scripted Query Logic
+
+        a) Structured Quick Language
+        b) Sequential Query Language
+        c) Structured Query Language
+        d) Scripted Query Logic
 
 2. Which one is an RDBMS?
-   a) Excel
-   b) MySQL
-   c) Google Drive
-   d) GitHub
+
+        a) Excel
+        b) MySQL
+        c) Google Drive
+        d) GitHub
 
 3. What is the basic unit of an RDBMS?
-   a) Page
-   b) Record
-   c) File
-   d) Table
+
+        a) Page
+        b) Record
+        c) File
+        d) Table
 
 4. Which command is used to get data from a table?
-   a) GET
-   b) PULL
-   c) SELECT
-   d) FETCH
+
+        a) GET
+        b) PULL
+        c) SELECT
+        d) FETCH
 
 5. Which of the following is **not** open-source?
-   a) PostgreSQL
-   b) MySQL
-   c) Oracle
-   d) SQLite
+
+        a) PostgreSQL
+        b) MySQL
+        c) Oracle
+        d) SQLite
 
 <br>
 
