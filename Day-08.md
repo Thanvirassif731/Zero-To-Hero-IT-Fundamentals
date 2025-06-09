@@ -176,7 +176,7 @@ RAID is a **method to combine multiple disks** for better performance or reliabi
 * OPTIONAL: Try a free cloud storage account (like Google Drive) and check storage limits
 
 ---
-Home: [Main Page](/README.md) | Previous: [Day-07 - Computer Storage Basics](/Day-07.md) | Up Next: [Day-09 - Virtualization and Cloud](/Day-09.md)
+Home: [Main Page](/README.md) | Previous: [Day-07 - Database](/Day-07.md) | Up Next: [Day-09 - Virtualization and Cloud](/Day-09.md)
 
 <br>
 
